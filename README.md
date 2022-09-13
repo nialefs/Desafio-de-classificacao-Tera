@@ -1,4 +1,4 @@
-# Desafio de classificação - Tera
+# Desafio de classificação - Tera em parceria com a Nvidia
 
 ## Contexto inicial
 
