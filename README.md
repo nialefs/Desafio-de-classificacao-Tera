@@ -1,6 +1,6 @@
 # Desafio de classificação - Tera em parceria com a Nvidia
 
-## Contexto inicial
+## Contexto
 
 O objetivo deste desafio é construir um modelo de Machine Learning capaz de prever fraudes no setor financeiro
 
